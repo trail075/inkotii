@@ -1,0 +1,36 @@
+🟢 Beginner (Build Basic Logic)
+1. Two Sum ⭐⭐⭐⭐⭐
+9. Palindrome Number
+13. Roman to Integer
+20. Valid Parentheses
+125. Valid Palindrome
+242. Valid Anagram
+217. Contains Duplicate
+121. Best Time to Buy and Sell Stock
+704. Binary Search
+283. Move Zeroes
+
+These 10 alone will teach you loops, conditions, dictionaries, strings, lists, and basic problem-solving.
+
+🟡 Intermediate
+Group Anagrams
+Maximum Subarray
+Product of Array Except Self
+Container With Most Water
+Longest Substring Without Repeating Characters
+Two Sum II
+Merge Intervals
+Top K Frequent Elements
+Valid Sudoku
+Evaluate Reverse Polish Notation
+🔴 Advanced
+3Sum
+Trapping Rain Water
+Longest Consecutive Sequence
+Minimum Window Substring
+Largest Rectangle in Histogram
+Sliding Window Maximum
+LRU Cache
+Merge k Sorted Lists
+Binary Tree Maximum Path Sum
+Serialize and Deserialize Binary Tree
