@@ -1,6 +1,5 @@
 🟢 Beginner (Build Basic Logic)
-1. Two Sum ⭐⭐⭐⭐⭐
-9. Palindrome Number
+1. Two Sum ⭐⭐⭐⭐
 13. Roman to Integer
 20. Valid Parentheses
 125. Valid Palindrome
